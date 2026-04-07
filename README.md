@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on a Survey JS x Laravel project<br>👯 I’m looking to collaborate on a Filament PHP KERN-UX theme<br>🌱 I’m currently learning Java Spring<br>💬 Ask me about Laravel, Filament, PHP, Docker<br>🐬 Fun fact: Orcas are dolphins and they hunt sharks for fun
 
 
